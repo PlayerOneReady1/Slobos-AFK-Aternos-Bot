@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FurinaIsMyMommy.aternos.me:48659",
+    "ip": "ox.aternos.host:48659",
     "port": 48659,
     "version": "1.21.1",
     "try-creative": false
